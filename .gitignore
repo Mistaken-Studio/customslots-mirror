@@ -1,0 +1,10 @@
+﻿################################################################################
+# Ten plik .gitignore został utworzony automatycznie przez Microsoft(R) Visual Studio.
+################################################################################
+
+/CustomSlots/obj
+/.vs
+/.idea
+/CustomSlots/bin
+/CustomSlots/.vs
+/packages
