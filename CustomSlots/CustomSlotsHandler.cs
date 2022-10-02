@@ -28,9 +28,6 @@ namespace Mistaken.CustomSlots
         public override bool IsBasic => true;
 
         /// <inheritdoc/>
-        public override bool Enabled => PluginHandler.Instance.Config.CustomSlotsEnabled;
-
-        /// <inheritdoc/>
         public override string Name => "CustomSlots";
 
         /// <inheritdoc/>
